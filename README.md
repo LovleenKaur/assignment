@@ -3,6 +3,7 @@ Onboarding assignment
 
 
 # Usage
-
-pip install -r requirements.txt
-</br>python manage.py runserver
+a python3 -m venv venv
+b source ./venv/bin/activate
+c pip install -r requirements.txt
+d python manage.py runserver
